@@ -27,6 +27,8 @@ protoc --go_out=. --go_opt=paths=source_relative \
 ```
 # Pixl Project Screenshot
 
+<img width="1430" alt="Pixl" src="https://user-images.githubusercontent.com/22866744/211433774-899df70d-8adb-4a6d-b305-d8f426f1b641.png">
+
 # Keiko Corp Image Server
 
 The __Keiko Corp Image Server__ picks a random image from an image directory and serves it to the user. Whenever an image is served, it gets logged into a SQLite database.
